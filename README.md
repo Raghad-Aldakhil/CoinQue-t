@@ -1,1 +1,1 @@
-# CoinQue-t
+# Coin Que$t Game
