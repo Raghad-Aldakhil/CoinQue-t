@@ -2,7 +2,7 @@
 
 Coin Quest is a platform game for a single player.The player walks through the environment, which is a two-dimensionalforest, collecting as many coins as possible while dodging traps. The game can be suitable for adults and children aged 3 and above.
 
-##Links
+## Links
 Link to the game, made with Unity2D
 https://play.unity.com/mg/other/coins-que-t
 
