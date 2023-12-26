@@ -1,7 +1,7 @@
 # Coin Que$t Game
 ![Screenshot 2023-12-26 125958](https://github.com/Raghad-Aldakhil/CoinQue-t/assets/121506944/afc488ac-9d39-4514-b08a-62943cf94316)
 ## about the game 
-- Genera : platform
+- Genre : platform
 - Levels : 2
 - Single player
 - Objective : collect coins to proced to the next level
